@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+models/categorizer/
+receipt_agent.db
+dataset.json
+sample_receipts/
+.vscode/
+*.egg-info/
+dist/
+build/
+.claude/
